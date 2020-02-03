@@ -1,0 +1,13 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MCP1825ST-2502E_DB
+D LDO Voltage Regulators 500 mA CMOS LDO Vout 2.5V ETR
+F https://www.mouser.com/datasheet/2/268/22056b-475378.pdf
+$ENDCMP
+#
+$CMP MCP1826S-1802E_DB
+D LDO Voltage Regulators 1A CMOS LDO Vout 1.8V ETR
+F https://www.mouser.com/datasheet/2/268/22057B-474578.pdf
+$ENDCMP
+#
+#End Doc Library
