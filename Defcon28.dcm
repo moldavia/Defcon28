@@ -6,7 +6,7 @@ F https://www.mouser.com/datasheet/2/268/22056b-475378.pdf
 $ENDCMP
 #
 $CMP MCP1825ST-3302E_DB
-D LDO Voltage Regulators 500 mA CMOS LDO Vout 3.3V ETR 
+D LDO Voltage Regulators 500 mA CMOS LDO Vout 3.3V ETR
 F https://www.mouser.com/datasheet/2/268/22056b-475378.pdf
 $ENDCMP
 #
@@ -15,7 +15,7 @@ D LDO Voltage Regulators 1A CMOS LDO Vout 1.8V ETR
 F https://www.mouser.com/datasheet/2/268/22057B-474578.pdf
 $ENDCMP
 #
-$CMP SW_SP4T
+$CMP SW_DP4T
 D Switch, four position, single pole quad throw, 4 position switch, SP4T
 K switch sp4t ON-ON-ON
 F https://www.mouser.com/datasheet/2/209/MS-100653-1172422.pdf
