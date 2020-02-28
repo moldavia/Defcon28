@@ -4,10 +4,10 @@ EELAYER END
 $Descr USLetter 11000 8500
 encoding utf-8
 Sheet 1 1
-Title ""
-Date ""
-Rev ""
-Comp ""
+Title "The Device"
+Date "2020-02-27"
+Rev "0.1"
+Comp "FC801"
 Comment1 ""
 Comment2 ""
 Comment3 ""
@@ -392,6 +392,8 @@ F 0 "U1" H 3100 3965 50  0000 C CNN
 F 1 "MCP1826S-1802E_DB" H 3100 3874 50  0000 C CNN
 F 2 "Package_TO_SOT_SMD:SOT-223-3_TabPin2" H 3100 3650 50  0001 C CNN
 F 3 "https://www.mouser.com/datasheet/2/268/22057B-474578.pdf" H 3100 3650 50  0001 C CNN
+F 4 "Mouser" H 3100 3650 50  0001 C CNN "Vendor"
+F 5 "579-MCP1826S-1802EDB " H 3100 3650 50  0001 C CNN "PArt #"
 	1    3100 3650
 	1    0    0    -1  
 $EndComp
@@ -489,6 +491,8 @@ F 0 "U2" H 3100 5115 50  0000 C CNN
 F 1 "MCP1825ST-2502E_DB" H 3100 5024 50  0000 C CNN
 F 2 "Package_TO_SOT_SMD:SOT-223-3_TabPin2" H 3100 4800 50  0001 C CNN
 F 3 "https://www.mouser.com/datasheet/2/268/22056b-475378.pdf" H 3100 4800 50  0001 C CNN
+F 4 "Mouser" H 3100 4800 50  0001 C CNN "Vendor"
+F 5 "579-MCP1825ST2502EDB" H 3100 4800 50  0001 C CNN "Part #"
 	1    3100 4800
 	1    0    0    -1  
 $EndComp
@@ -739,6 +743,8 @@ F 0 "U3" H 3100 6365 50  0000 C CNN
 F 1 "MCP1825ST-3302E_DB" H 3100 6274 50  0000 C CNN
 F 2 "Package_TO_SOT_SMD:SOT-223-3_TabPin2" H 3100 6050 50  0001 C CNN
 F 3 "https://www.mouser.com/datasheet/2/268/22056b-475378.pdf" H 3100 6050 50  0001 C CNN
+F 4 "Mouser" H 3100 6050 50  0001 C CNN "Vendor"
+F 5 "579-MCP1825ST3302EDB" H 3100 6050 50  0001 C CNN "Part #"
 	1    3100 6050
 	1    0    0    -1  
 $EndComp
